@@ -1,20 +1,32 @@
-#### Idea
+<h2 align="center">
+  Portfolio Website<br/>
+  <a href="https://ak-developer.netlify.app/" target="_blank">Abdullatif-Khayat</a>
+</h2>
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+## Built With
 
-![](./idea.png);
+This portfolio project was built using these technologies.
 
-#### React Icons
+- React.js
+- React-bootstrap
+- HTML5
+- CSS3
+- VsCode
+- Netlify
 
-[react icons](https://react-icons.github.io/react-icons/)
+## Getting Started
 
-```
-npm install react-icons --save
-```
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+## 🛠 Installation
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
