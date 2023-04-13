@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://ak-developer.netlify.app/" target="_blank">Abdullatif-Khayat</a>
+  <a href="https://abdullatif-khayat.netlify.app/" target="_blank">Abdullatif-Khayat</a>
 </h2>
 
 ## Built With
